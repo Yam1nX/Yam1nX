@@ -206,12 +206,12 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=infernoYam1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yam1nX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infernoYam1n&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yam1nX&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </td>
 </tr>
@@ -228,7 +228,7 @@
 ## 📈 **Development Activity & Contribution Timeline**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=infernoYam1n&theme=tokyo-night&hide_border=true&area=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yam1nX&theme=tokyo-night&hide_border=true&area=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Activity Graph" />
 </div>
 
 ---
