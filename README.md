@@ -270,22 +270,31 @@
 <tr>
 <td width="50%">
 
-[![EchoGPT - Next.js Application](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=EchoGPT&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://echogptai.netlify.app/)
+<a href="https://echogptai.netlify.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=EchoGPT&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3" alt="EchoGPT - Next.js Application" />
+</a>
 
-**🌐 Modern Web Application**
-- Next.js Full-Stack Development  
-- AI Integration & API Design  
-- Modern UI/UX Implementation  
+<h4>🌐 Modern Web Application</h4>
+
+<ul align="left">
+<li>Next.js Full-Stack Development</li>
+<li>AI Integration & API Design</li>
+<li>Modern UI/UX Implementation</li>
+</ul>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-[![Slytherine - React Project](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=slytherine&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://hoqwarts.netlify.app/)
+<a href="https://hoqwarts.netlify.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=slytherine&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3" alt="Slytherine - React Project" />
+</a>
 
-**⚛️ React Frontend Excellence**
-- Component Architecture  
-- State Management Patterns  
-- Responsive Design Systems  
+<h4>⚛️ React Frontend Excellence</h4>
+
+<ul align="left">
+<li>Component Architecture</li>
+<li>State Management Patterns</li>
+<li>Responsive Design Systems</li>
 
 </td>
 </tr>
