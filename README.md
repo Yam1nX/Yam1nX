@@ -248,13 +248,18 @@
 <tr>
 <td width="50%">
 
-[![BlazeData - ML & Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=BlazeData&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/BlazeData)
+<a href="https://hoqwarts.netlify.app/">
+  <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/56c7b2b6-a112-4329-a3db-e735698db28a" />
 
-**🔥 Advanced ML/DL Projects**
-- Neural Networks & Deep Learning
-- Data Science & Analytics
-- Computer Vision Applications
+</a>
 
+<h4>🌐 Advanced ML/DL Projects</h4>
+
+<ul align="left">
+<li>Neural Networks & Deep Learning</li>
+<li>Data Science & Analytics</li>
+<li>Computer Vision Applications</li>
+</ul>
 </td>
 <td width="50%">
 
@@ -271,7 +276,7 @@
 <td width="50%">
 
 <a href="https://echogptai.netlify.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=EchoGPT&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3" alt="EchoGPT - Next.js Application" />
+  <img width="1497" height="726" alt="e" src="https://github.com/user-attachments/assets/a0de2df6-f7fd-4a9a-9c98-9c710a3a7a82" />
 </a>
 
 <h4>🌐 Modern Web Application</h4>
@@ -283,10 +288,10 @@
 </ul>
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
 <a href="https://hoqwarts.netlify.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=slytherine&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3" alt="Slytherine - React Project" />
+  <img width="1471" height="726" alt="am_2" src="https://github.com/user-attachments/assets/4bcc6692-161e-4053-b427-1b4f61827e37" />
 </a>
 
 <h4>⚛️ React Frontend Excellence</h4>
