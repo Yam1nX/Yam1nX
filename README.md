@@ -262,7 +262,7 @@
 <tr>
 <td width="50%">
 
-[![BlazeData - ML & Data Science](https://github-readme-stats.vercel.app/api/pin/?username=infernoYam1n&repo=BlazeData&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/BlazeData)
+[![BlazeData - ML & Data Science](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=BlazeData&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/BlazeData)
 
 **🔥 Advanced ML/DL Projects**
 - Neural Networks & Deep Learning
@@ -272,7 +272,7 @@
 </td>
 <td width="50%">
 
-[![HeadstarterAI - Fellowship Projects](https://github-readme-stats.vercel.app/api/pin/?username=infernoYam1n&repo=HeadstarterAI&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/HeadstarterAI)
+[![HeadstarterAI - Fellowship Projects](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=HeadstarterAI&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/HeadstarterAI)
 
 **🚀 AI Fellowship Portfolio**
 - Collaborative AI Projects
@@ -284,7 +284,7 @@
 <tr>
 <td width="50%">
 
-[![EchoGPT - Next.js Application](https://github-readme-stats.vercel.app/api/pin/?username=infernoYam1n&repo=EchoGPT&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/EchoGPT)
+[![EchoGPT - Next.js Application](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=EchoGPT&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/EchoGPT)
 
 **🌐 Modern Web Application**
 - Next.js Full-Stack Development
@@ -294,7 +294,7 @@
 </td>
 <td width="50%">
 
-[![Slytherine - React Project](https://github-readme-stats.vercel.app/api/pin/?username=infernoYam1n&repo=slytherine&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/slytherine)
+[![Slytherine - React Project](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=slytherine&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/slytherine)
 
 **⚛️ React Frontend Excellence**
 - Component Architecture
