@@ -248,7 +248,7 @@
 <tr>
 <td width="50%">
 
-<a href="https://hoqwarts.netlify.app/">
+<a href="https://echoexplorer.netlify.app/">
   <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/56c7b2b6-a112-4329-a3db-e735698db28a" />
 
 </a>
