@@ -237,20 +237,6 @@
 
 <div align="center">
 
-### 🔬 **Research Matrix & Future Roadmap**
-
-| **Research Domain** | **Current Status** | **Objective 2024-2025** | **Long-term Vision** |
-|:---:|:---:|:---:|:---:|
-| 🧠 **Neural Intelligence** | `Active Research` | Master Deep Learning Architecture | Publish Peer-Reviewed Papers |
-| 🌊 **Brainwave Analysis** | `Experimental Phase` | Develop EEG Processing Models | Clinical Applications |
-| ⚛️ **Quantum Machine Learning** | `Learning & Implementation` | Build Quantum-Classical Hybrids | Industry Integration |
-| 👁️ **Computer Vision** | `Project Development` | Deploy Production Models | Real-world AI Solutions |
-| 🚀 **Frontend Innovation** | `Professional Development` | Master Modern React Patterns | Lead Technical Architecture |
-| 🌐 **Open Source Impact** | `Contributing` | Maintain Popular Repositories | Community Leadership |
-
-</div>
-
----
 
 ## 🏆 **Featured Project Portfolio**
 
@@ -284,22 +270,22 @@
 <tr>
 <td width="50%">
 
-[![EchoGPT - Next.js Application](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=EchoGPT&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/EchoGPT)
+[![EchoGPT - Next.js Application](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=EchoGPT&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://echogptai.netlify.app/)
 
 **🌐 Modern Web Application**
-- Next.js Full-Stack Development
-- AI Integration & API Design
-- Modern UI/UX Implementation
+- Next.js Full-Stack Development  
+- AI Integration & API Design  
+- Modern UI/UX Implementation  
 
 </td>
 <td width="50%">
 
-[![Slytherine - React Project](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=slytherine&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/slytherine)
+[![Slytherine - React Project](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=slytherine&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://hoqwarts.netlify.app/)
 
 **⚛️ React Frontend Excellence**
-- Component Architecture
-- State Management Patterns
-- Responsive Design Systems
+- Component Architecture  
+- State Management Patterns  
+- Responsive Design Systems  
 
 </td>
 </tr>
