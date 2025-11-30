@@ -40,110 +40,6 @@
 </table>
 </div>
 
----
-
-## 🛠️ **Technology Stack & Proficiency Matrix**
-
-<details>
-<summary><b>🧠Machine Learning & Deep Learning</b></summary>
-<br>
-
-**Core Frameworks & Libraries**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-</p>
-
-**Data Science & Analytics**
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-388e3c?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-**Development Environment**
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🌐 Frontend Development & User Experience</b></summary>
-<br>
-
-**Modern JavaScript Ecosystem**
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Styling & UI Frameworks**
-<p>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🗄️ Database Systems & Backend Technologies</b></summary>
-<br>
-
-**Database Management**
-<p>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-</p>
-
-**Backend & Runtime**
-<p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-</details>
-
-<details>
-<summary><b>⚙️ Development Tools & Platform Engineering</b></summary>
-<br>
-
-**Version Control & Collaboration**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
-**Development Environment**
-<p>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-</p>
-
-**Cloud & Deployment**
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-</details>
-
----
 
 ## 📊 **GitHub Analytics**
 
@@ -170,19 +66,37 @@
 
 
 ---
+## 🎯 **Research Portfolio & Strategic Objectives**
+
+<div align="center">
 
 
-<h4>🌐Projects</h4>
+## 🏆 **Featured Project Portfolio**
+
+<div align="center">
+
+### 🚀 **Signature Projects & Repositories**
+
+<table>
+<tr>
+<td width="50%">
+
+<a href="https://github.com/Yam1nX/Cardio-Nexus.git">
+  <img width="1300" height="835" alt="Screenshot 2025-11-22 225202" src="https://github.com/user-attachments/assets/51b5d97c-2af8-4167-ad8d-3d8478e73d22" />
+
+</a>
+
+<h4>🌐 ML/DL Projects</h4>
 
 <ul align="left">
 <li>Neural Networks & Deep Learning</li>
 <li>Data Science & Analytics</li>
-<li>Computer Vision Applications</li>
+<li>Quantum Machine Learning</li>
 </ul>
 </td>
 <td width="50%">
 
-[![HeadstarterAI - Fellowship Projects](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=HeadstarterAI&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/infernoYam1n/HeadstarterAI)
+[![HeadstarterAI - Fellowship Projects](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=HeadstarterAI&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/Yam1nX/HeadstarterAI)
 
 **🚀 AI Fellowship Portfolio**
 - Collaborative AI Projects
@@ -228,6 +142,7 @@
 
 ---
 
+
 ## 🌐 **Professional Network & Collaboration**
 
 <div align="center">
@@ -249,7 +164,7 @@
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://infernoYam1n.github.io/AshabulYamin/">
+<a href="https://Yam1nX.github.io/AshabulYamin/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 
 </a>
@@ -263,13 +178,7 @@
 </tr>
 </table>
 
-### 🤝 **Collaboration Opportunities**
 
-<div align="center">
-<img src="https://img.shields.io/badge/🚀-Open%20to%20Collaborations-success?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/💼-Available%20for%20Opportunities-blue?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/🎓-Mentorship%20Available-orange?style=for-the-badge&logoColor=white" />
-</div>
 
 
 
@@ -283,39 +192,9 @@
 
 > *"Bridging the gap between cutting-edge AI research and practical applications, one algorithm at a time. The future of technology lies in the intersection of human creativity and artificial intelligence."*
 
----
 
-### 🐍 **Contribution Activity**
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 
----
-
-### 🌟 **Professional Philosophy**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💡-Innovation-FF6B6B?style=for-the-badge&logoColor=white" />
-<br><strong>Continuous Learning</strong>
-<br><em>Staying ahead of technological curves</em>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🤝-Collaboration-4ECDC4?style=for-the-badge&logoColor=white" />
-<br><strong>Team Excellence</strong>
-<br><em>Building impactful solutions together</em>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎯-Impact-45B7D1?style=for-the-badge&logoColor=white" />
-<br><strong>Meaningful Solutions</strong>
-<br><em>Technology for positive change</em>
-</td>
-</tr>
-</table>
-
-</div>
-
----
 <div align="left">
 
 
