@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<h3 align="center">Aspiring Machine Learning Engineer | Front-End Developer (React/Next.js) | Tech Explorer</h3>
+<h3 align="center">Tech Explorer</h3>
 <!-- Professional Title with Advanced Animations -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+Frontend+Developer;DL+%7C+ML+Projects+in+Progress;DBMS+with+Oracle+SQL+%7C+Open+Source+Enthusiast;Neural+Intelligence+Researcher" alt="Typing SVG" />
@@ -30,69 +30,15 @@
 <div align="center">
 <table>
 <tr>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/🧠-Machine%20Learning-FF6B6B?style=for-the-badge&logoColor=white" />
-<br><strong>AI/ML Engineering</strong>
-<br><em>Deep Learning, Neural Networks, TensorFlow/PyTorch</em>
-</td>
+
 <td width="33%" align="center">
 <img src="https://img.shields.io/badge/⚛️-Frontend%20Development-4ECDC4?style=for-the-badge&logoColor=white" />
-<br><strong>Full-Stack Development</strong>
-<br><em>React, Next.js, TypeScript Ecosystem</em>
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/🔬-Research-45B7D1?style=for-the-badge&logoColor=white" />
-<br><strong>Neural Intelligence Research</strong>
-<br><em>Quantum ML, Brainwave Analysis</em>
-</td>
+<!-- <br><strong>Full-Stack Development</strong>
+<br><em>React, Next.js, TypeScript Ecosystem</em> -->
+
 </tr>
 </table>
 </div>
-
----
-
-## 🚀 **Core Competencies & Focus Areas**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 **Current Focus & Learning Path**
-
-```yaml
-💻 Frontend Engineering:
-  - React & Next.js (Production-Level Experience)
-  - Tailwind CSS, TypeScript, Clean UI/UX Design
-  - Component Reusability & State Management
-
-🧠 Machine Learning (Intermediate):
-  - Regression, Classification, Model Evaluation
-  - Scikit-Learn, Pandas, NumPy, Matplotlib
-  - Practical Projects with Real-world Datasets
-
-🔬 Research Interests (Early Stage):
-  - Neural Intelligence & Brainwave Analysis
-  - Quantum ML with PennyLane (Exploratory Phase)
-  - Research Writing & Paper Structuring
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 **Proficiency Matrix**
-
-| Domain                      | Level      | Status               |
-| --------------------------- | ---------- | -------------------- |
-| **💻 Frontend Development** | ██████████ | ✅ Professional       |
-| **🤖 Machine Learning**     | ███████░░░ | 📈 Growing           |
-| **📊 Data Science**         | ██████▇░░░ | 📈 Practical Level   |
-| **🔬 Neural Intelligence**  | ████░░░░░░ | 🧪 Research Phase    |
-| **⚛️ Quantum ML**           | ███░░░░░░░ | 🧪 Learning Phase    |
-| **📔 Oracle SQL/DBMS**      | ██████░░░░ | 🛠️ Usage Experience |
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -225,35 +171,8 @@
 
 ---
 
-## 📈 **Development Activity & Contribution Timeline**
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yam1nX&theme=tokyo-night&hide_border=true&area=true&custom_title=Annual%20Contribution%20Activity" alt="Contribution Activity Graph" />
-</div>
-
----
-
-## 🎯 **Research Portfolio & Strategic Objectives**
-
-<div align="center">
-
-
-## 🏆 **Featured Project Portfolio**
-
-<div align="center">
-
-### 🚀 **Signature Projects & Repositories**
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://echoexplorer.netlify.app/">
-  <img width="600" height="250" alt="image" src="https://github.com/user-attachments/assets/56c7b2b6-a112-4329-a3db-e735698db28a" />
-
-</a>
-
-<h4>🌐 Advanced ML/DL Projects</h4>
+<h4>🌐Projects</h4>
 
 <ul align="left">
 <li>Neural Networks & Deep Learning</li>
