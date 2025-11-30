@@ -9,14 +9,14 @@
 <div align="center">
 <h3 align="center">Tech Explorer</h3>
 <!-- Professional Title with Advanced Animations -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+Frontend+Developer;DL+%7C+ML+Projects+in+Progress;DBMS+with+Oracle+SQL+%7C+Open+Source+Enthusiast;Neural+Intelligence+Researcher" alt="Typing SVG" />
-</div>
+</div> -->
 
 <!-- Enhanced Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=infernoYam1n&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/infernoYam1n?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Yam1nX&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yam1nX?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/badge/FOCUS-Machine%20Learning%20%26%20AI-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
 </p>
@@ -51,6 +51,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Yam1nX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 </td>
+
 <td width="50%">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yam1nX&layout=compact&theme=radical&hide_border=true&langs_count=8" />
