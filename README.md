@@ -32,13 +32,28 @@
 <tr>
 
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/⚛️-Frontend%20Development-4ECDC4?style=for-the-badge&logoColor=white" />
-<!-- <br><strong>Full-Stack Development</strong>
-<br><em>React, Next.js, TypeScript Ecosystem</em> -->
+<img src="https://img.shields.io/badge/🚀-Frontend%20Developer-4ECDC4?style=for-the-badge&logoColor=white" />
+<br><strong>Frontend Development</strong>
+<br><em>HTML, CSS, JavaScript Basics</em>
+</td>
+
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🧠-Learning%20ML/AI-FF6B6B?style=for-the-badge&logoColor=white" />
+<br><strong>AI & ML Enthusiast</strong>
+<br><em>Exploring Machine Learning</em>
+</td>
+
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/📚-Continuous%20Learner-6A4C93?style=for-the-badge&logoColor=white" />
+<br><strong>Skill Development</strong>
+<br><em>Building Foundations</em>
+</td>
 
 </tr>
 </table>
 </div>
+
+
 
 
 ## 📊 **GitHub Analytics**
@@ -46,37 +61,48 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yam1nX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Yam1nX&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00" alt="GitHub Streak" />
 
 </td>
 
-<td width="50%">
+<td width="30%">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yam1nX&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yam1nX&theme=2077)
+</td>
+<td width="30%">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yam1nX&theme=2077)
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yam1nX&theme=2077" />
+
+</td>
+<td>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yam1nX&theme=2077&utcOffset=5.5)
 
 </td>
 </tr>
 </table>
-
-
 </div>
 
-
-
-
 ---
-## 🎯 **Research Portfolio & Strategic Objectives**
+
+
 
 <div align="center">
 
 
 ## 🏆 **Featured Project Portfolio**
 
-<div align="center">
 
-### 🚀 **Signature Projects & Repositories**
+
+
 
 <table>
 <tr>
@@ -97,7 +123,7 @@
 </td>
 <td width="50%">
 
-[![HeadstarterAI - Fellowship Projects](https://github-readme-stats.vercel.app/api/pin/?username=Yam1nX&repo=HeadstarterAI&theme=tokyonight&hide_border=true&show_owner=true&description_lines_count=3)](https://github.com/Yam1nX/HeadstarterAI)
+[![HeadstarterAI - Fellowship Projects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yam1nX&repo=HeadstarterAI&theme=tokyonight&hide_border=true)](https://github.com/Yam1nX/HeadstarterAI)
 
 **🚀 AI Fellowship Portfolio**
 - Collaborative AI Projects
@@ -105,7 +131,6 @@
 - Professional Development
 
 </td>
-</tr>
 <tr>
 <td width="50%">
 
