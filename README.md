@@ -1,46 +1,47 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3436,50:636E72,100:00B894&height=120&section=header&text=Ashabul%20Yamin%20Tuhin&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<!-- CYBER INTELLIGENCE HEADER WITH NEURAL NETWORK EFFECT -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a1b26,60:2e2f3e,100:00d4ff&height=140&section=header&text=Ashabul%20Yamin%20Tuhin&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=&descSize=20&descAlignY=70&stroke=00d4ff&strokeWidth=2" />
 
 </div>
 
 <div align="center">
 <h3 align="center">Tech Explorer</h3>
 
-<!-- Enhanced Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yam1nX&color=00B894&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Yam1nX?style=for-the-badge&color=0984E3&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/badge/FOCUS-Machine%20Learning%20%26%20AI-6C5CE7?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-FDCB6E?style=for-the-badge&logo=checkmarx&logoColor=black" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Yam1nX&color=FF9E6D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yam1nX?style=for-the-badge&color=6DD3FF&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/badge/FOCUS-Machine%20Learning%20%26%20AI-B38CFF?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-4ECDC4?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
 </p>
 
 </div>
 
 
 
-## 🎯 **Executive Summary**
+
+<div align="center">
+  
+## **Executive Summary**
 
 <div align="center">
 <table>
 <tr>
 
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/🚀-Frontend%20Developer-4ECDC4?style=for-the-badge&logoColor=white" />
+<td  align="center">
+<img src="https://img.shields.io/badge/-Frontend%20Dev-FF9E6D?style=for-the-badge&logoColor=white" />
 <br><strong>Frontend Development</strong>
-<br><em>HTML, CSS, JavaScript Basics</em>
+<br><em>JavaScript, React Basics</em>
 </td>
 
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/🧠-Learning%20ML/AI-FF6B6B?style=for-the-badge&logoColor=white" />
+<td  align="center">
+<img src="https://img.shields.io/badge/-ML/AI%20Learn-6DD3FF?style=for-the-badge&logoColor=white" />
 <br><strong>AI & ML Enthusiast</strong>
 <br><em>Exploring Machine Learning</em>
 </td>
 
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/📚-Continuous%20Learner-6A4C93?style=for-the-badge&logoColor=white" />
+<td  align="center">
+<img src="https://img.shields.io/badge/-Skill%20Growth-B38CFF?style=for-the-badge&logoColor=white" />
 <br><strong>Skill Development</strong>
 <br><em>Building Foundations</em>
 </td>
@@ -50,16 +51,14 @@
 </div>
 
 
-
-
-## 📊 **GitHub Analytics**
+##  **GitHub Analytics**
 
 <div align="center">
 <table>
 <tr>
 <td width="40%">
 
-<img src="https://streak-stats.demolab.com?user=Yam1nX&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Yam1nX&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=00D9FF&currStreakLabel=FF00FF&stroke=00D9FF" alt="GitHub Streak" />
 
 </td>
 
@@ -90,11 +89,10 @@
 
 
 
-
 <div align="center">
 
 
-## 🏆 **Featured Project Portfolio**
+##  **Featured Project Portfolio**
 
 
 
@@ -109,7 +107,7 @@
 
 </a>
 
-<h4>🌐 ML/DL Projects</h4>
+<h4> ML/DL Projects</h4>
 
 <ul align="left">
 <li>Neural Networks & Deep Learning</li>
@@ -121,7 +119,7 @@
 
 [![HeadstarterAI - Fellowship Projects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yam1nX&repo=HeadstarterAI&theme=tokyonight&hide_border=true)](https://github.com/Yam1nX/HeadstarterAI)
 
-**🚀 AI Fellowship Portfolio**
+** AI Fellowship Portfolio**
 - Collaborative AI Projects
 - Industry-Standard Implementations
 - Professional Development
@@ -134,7 +132,7 @@
   <img width="1497" height="726" alt="e" src="https://github.com/user-attachments/assets/a0de2df6-f7fd-4a9a-9c98-9c710a3a7a82" />
 </a>
 
-<h4>🌐 Modern Web Application</h4>
+<h4> Modern Web Application</h4>
 
 <ul align="left">
 <li>Next.js Full-Stack Development</li>
@@ -149,7 +147,7 @@
   <img width="1471" height="726" alt="am_2" src="https://github.com/user-attachments/assets/4bcc6692-161e-4053-b427-1b4f61827e37" />
 </a>
 
-<h4>⚛️ React Frontend Excellence</h4>
+<h4> React Frontend Excellence</h4>
 
 <ul align="left">
 <li>Component Architecture</li>
@@ -165,36 +163,32 @@
 ---
 
 
-## 🌐 **Professional Network & Collaboration**
+##  **Professional Network & Collaboration**
 
 <div align="center">
 
-### 📫 **Connect & Collaborate**
+###  **Connect & Collaborate**
 
 <table>
 <tr>
 <td align="center" width="25%">
 <a href="https://www.linkedin.com/in/yamin401533/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
 </a>
 </td>
 <td align="center" width="25%">
 <a href="mailto:ashabulyamintuhin@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://Yam1nX.github.io/AshabulYamin/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Portfolio-47D1FF?style=for-the-badge&logo=link&logoColor=white" />
 </a>
 </td>
 <td align="center" width="25%">
 <a href="#">
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Discord-8A7BFF?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 </td>
 </tr>
@@ -210,7 +204,7 @@
 
 <div align="center">
 
-### 💫 **Vision Statement**
+###  **Vision Statement**
 
 > *"Bridging the gap between cutting-edge AI research and practical applications, one algorithm at a time. The future of technology lies in the intersection of human creativity and artificial intelligence."*
 
