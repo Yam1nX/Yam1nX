@@ -2,23 +2,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=Ashabul%20Yamin%20Tuhin&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3436,50:636E72,100:00B894&height=120&section=header&text=Ashabul%20Yamin%20Tuhin&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
 </div>
 
 <div align="center">
 <h3 align="center">Tech Explorer</h3>
-<!-- Professional Title with Advanced Animations -->
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React+%7C+Next.js+Frontend+Developer;DL+%7C+ML+Projects+in+Progress;DBMS+with+Oracle+SQL+%7C+Open+Source+Enthusiast;Neural+Intelligence+Researcher" alt="Typing SVG" />
-</div> -->
 
 <!-- Enhanced Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yam1nX&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Yam1nX?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/badge/FOCUS-Machine%20Learning%20%26%20AI-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Yam1nX&color=00B894&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yam1nX?style=for-the-badge&color=0984E3&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/badge/FOCUS-Machine%20Learning%20%26%20AI-6C5CE7?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-FDCB6E?style=for-the-badge&logo=checkmarx&logoColor=black" alt="Status" />
 </p>
 
 </div>
