@@ -217,7 +217,7 @@
 ```python
 class AshabulYamin:
     def __init__(self):
-        self.username = "infernoYam1n"
+        self.username = "Yam1nX"
         self.name = "Ashabul Yamin Tuhin"
         self.position = "Learning ML & DS | Enthusiast & Full-Stack Developer"
         self.location = "Chattogram, Bangladesh"
