@@ -117,12 +117,18 @@
 </td>
 <td width="50%">
 
-[![HeadstarterAI - Fellowship Projects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yam1nX&repo=HeadstarterAI&theme=tokyonight&hide_border=true)](https://github.com/Yam1nX/HeadstarterAI)
+<a href="https://echogptai.netlify.app/">
+  <img width="3840" height="2160" alt="AquaSentinel_Banner_v3" src="https://github.com/user-attachments/assets/32b6b3b7-2613-4237-8519-70e6abd66a07" />
+</a>
 
-** AI Fellowship Portfolio**
-- Collaborative AI Projects
-- Industry-Standard Implementations
-- Professional Development
+<h4>AquaSentinel</h4>
+
+<ul align="left">
+<li>Data Analysis and AI-ML</li>
+<li>Next.js Full-Stack Development</li>
+<li>AI Integration & Flask API Design</li>
+<li>Modern UI/UX Implementation</li>
+</ul>
 
 </td>
 <tr>
