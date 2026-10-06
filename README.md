@@ -115,9 +115,9 @@
 <li>Quantum Machine Learning</li>
 </ul>
 </td>
-<td width="50%">
+<!-- <td width="50%">
 
-<a href="https://echogptai.netlify.app/">
+<!-- <a href="https://echogptai.netlify.app/">
   <img width="3840" height="2160" alt="AquaSentinel_Banner_v3" src="https://github.com/user-attachments/assets/32b6b3b7-2613-4237-8519-70e6abd66a07" />
 </a>
 
@@ -128,9 +128,9 @@
 <li>Next.js Full-Stack Development</li>
 <li>AI Integration & Flask API Design</li>
 <li>Modern UI/UX Implementation</li>
-</ul>
+</ul> -->
 
-</td>
+<!-- </td> --> -->
 <tr>
 <td width="50%">
 
