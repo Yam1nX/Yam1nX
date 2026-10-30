@@ -128,7 +128,7 @@
 <li>Next.js Full-Stack Development</li>
 <li>AI Integration & Flask API Design</li>
 <li>Modern UI/UX Implementation</li>
-</ul> -->
+</ul> 
 
 </td>
 <tr>
